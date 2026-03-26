@@ -1,13 +1,13 @@
 {
   "name": "Unlocked Games",
-  "subtitle": "A source where you can install paid apps freely.",
-  "description": "GD",
-  "iconURL": "https://i.imgur.com/nDNNIk5.png",
-  "website": "",
-  "patreonURL": "",
-  "tintColor": "#6156e2",
+  "identifier": "com.camera.unlockedgames",
+  "subtitle": "Paid apps for free",
+  "description": "Paid apps for free",
+  "iconURL": "https://i.imgur.com/JXKurXM.png",
+  "headerURL": "",
+  "website": "https://camera-019238.github.io",
+  "tintColor": "#e45c0c",
   "featuredApps": [],
-  "headerURL": "https://i.imgur.com/kp8WPWA.png",
   "apps": [
     {
       "name": "Flero",
@@ -18,14 +18,21 @@
       "localizedDescription": "GGs",
       "iconURL": "https://i.imgur.com/JXKurXM.png",
       "tintColor": "#e45c0c",
-      "category": "games",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.9-4",
+          "buildVersion": "1",
+          "date": "2024-01-01T00:00:00-00:00",
+          "size": 1,
+          "downloadURL": "https://github.com/camera-019238/flerosource/releases/download/Flero/Flero.v0.0.9-4.ipa",
+          "localizedDescription": "Initial release."
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
