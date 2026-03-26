@@ -1,0 +1,39 @@
+{
+  "name": "Unlocked Games",
+  "identifier": "com.camera.unlockedgames",
+  "subtitle": "Paid apps for free",
+  "description": "Paid apps for free",
+  "iconURL": "https://i.imgur.com/JXKurXM.png",
+  "headerURL": "",
+  "website": "https://camera-019238.github.io",
+  "tintColor": "#e45c0c",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Flero",
+      "bundleIdentifier": "com.camera019238.fleroclient",
+      "marketplaceID": "",
+      "developerName": "SP67",
+      "subtitle": "Geometry Dash, but with a twist.",
+      "localizedDescription": "GGs",
+      "iconURL": "https://i.imgur.com/JXKurXM.png",
+      "tintColor": "#e45c0c",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.0.9-4",
+          "buildVersion": "1",
+          "date": "2024-01-01T00:00:00-00:00",
+          "size": 1,
+          "downloadURL": "https://github.com/camera-019238/flerosource/releases/download/Flero/Flero.v0.0.9-4.ipa",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
